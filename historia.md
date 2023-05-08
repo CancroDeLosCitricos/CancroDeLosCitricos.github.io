@@ -1,7 +1,18 @@
 ---
-title: historia
+title: Anexos
 layout: home
 ---
 
-Es una de las enfermedades más importantes de los cítricos. Esta bacteria se dispersa a largas distancias por medio de material vegetal infectado, mientras que a distancias cortas a través de gotas de lluvia. Los principales hospedantes de importancia económica de esta bacteria son las especies del género Citrus. Los cítricos de mayor importancia son limón, naranja, mandarina, lima y toronja.
+1. CAMPAÑA CANCRO DE LOS CÍTRICOS 2023 FORMATO DE EXPLORACIÓN Y MUESTREO
+2. CAMPAÑA CANCRO DE LOS CÍTRICOS 2023 FORMATO DE CONTROL QUÍMICO-CULTURAL
+3. CAMPAÑA CANCRO DE LOS CÍTRICOS LISTA DE ASISTENCIA TALLER PARTICIPATIVO DIRIGIDO A PRODUCTORES DE CÍTRICOS
+4. [CAMPAÑA CANCRO DE LOS CÍTRICOS BITÁCORA ELECTRÓNICA EXPLORACIÓN Y MUESTREO](https://drive.google.com/uc?export=download&id=1sJwkzJf0PTrhnAvdgwd6vflH1pHP52A7)
+5. CAMPAÑA CANCRO DE LOS CÍTRICOS BITÁCORA ELECTRÓNICA CONTROL QUÍMICO - CULTURAL
+6. CAMPAÑA CANCRO DE LOS CÍTRICOS BITÁCORA ELECTRÓNICA TALLER PARTICIPATIVO
+7. CAMPAÑA CANCRO DE LOS CÍTRICOS EVIDENCIA FOTOGRÁFICA EXPLORACIÓN 
+8. CAMPAÑA CANCRO DE LOS CÍTRICOS EVIDENCIA FOTOGRÁFICA MUESTREO
+9. CAMPAÑA CANCRO DE LOS CÍTRICOS EVIDENCIA FOTOGRÁFICA CONTROL QUÍMICO
+10. CAMPAÑA CANCRO DE LOS CÍTRICOS EVIDENCIA FOTOGRÁFICA CONTROL CULTURAL
+11. CAMPAÑA CANCRO DE LOS CÍTRICOS EVIDENCIA FOTOGRÁFICA TALLERES PARTICIPATIVOS
+
 
