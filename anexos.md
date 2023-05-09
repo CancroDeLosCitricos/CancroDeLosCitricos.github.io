@@ -2,8 +2,7 @@
 title: Anexos
 layout: home
 ---
-
-## Formato Documental
+# Formato Documental
 01. [CAMPAÑA CANCRO DE LOS CÍTRICOS 2023 FORMATO DE EXPLORACIÓN Y MUESTREO](https://drive.google.com/uc?export=download&id=1fdFDC7UNSLkwMBvqQiK0IlOXXvrtlxzi)
 02. [CAMPAÑA CANCRO DE LOS CÍTRICOS 2023 FORMATO DE CONTROL QUÍMICO-CULTURAL](https://drive.google.com/uc?export=download&id=1acwxTwVzLgTHFuPWNPBT6JMg03M6G1OM)
 03. [CAMPAÑA CANCRO DE LOS CÍTRICOS LISTA DE ASISTENCIA TALLER PARTICIPATIVO DIRIGIDO A PRODUCTORES DE CÍTRICOS](https://drive.google.com/file/d/1gMZNYe7nWeOWV7AEh3Ji7TD0GKE9L614/view?usp=sharing)
